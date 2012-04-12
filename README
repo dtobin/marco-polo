@@ -1,1 +1,5 @@
-Seems like this github business is pretty cool beans.
+Goal: build a chrome extension that unobtrusively
+notifies chrome users which tabs have sound playing.
+
+Real goal: get messy, have fun, learn a little about
+how chrome extensions work.
